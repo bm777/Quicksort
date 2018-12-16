@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545002722 source:/home/bm7/Codeblocks/Quicksort/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
