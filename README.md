@@ -9,7 +9,7 @@ Cet algorithme appelé ALGORITHME TRI RAPIDE (QuickSort), il s'agit d'ordonner l
 ![Alt text](img/2.png?raw=true "init")
 
 # Résultat très rapide
-comparé au [tri à bulle](bm777/Tri_bulle), au [tri à sélection](bm777/Tri_selection) et au [tri à insertion](bm777/Tri_insertion).
+comparé au [tri à bulle](https://github.com/bm777/Tri_bulle), au [tri à sélection](https://github.com/bm777/Tri_selection) et au [tri à insertion](https://github.com/bm777/Tri_insertion).
 
 
 ![Alt text](img/3.png?raw=true "Resultat")
